@@ -44,6 +44,6 @@ window.onload = function(){
            container.removeChild(a);
         }
 
-    },2000)
+    },1500)
 
 }
