@@ -9,7 +9,7 @@ window.onload = function(){
         container.setAttribute('style', `
         width:80px;
         height:80px;
-        position: absolute;
+        position: fixed;
         left:60px;
         border-radius:50%;
         bottom:100px;
